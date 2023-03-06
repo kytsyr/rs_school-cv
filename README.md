@@ -1,1 +1,1 @@
-# rs_school-cv
+# https://github.com/kytsyr/rs_school-cv
