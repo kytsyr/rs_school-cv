@@ -1,2 +1,1 @@
-
-
+# https://github.com/kytsyr/rs_school-cv/blob/gh-pages/cv.md
