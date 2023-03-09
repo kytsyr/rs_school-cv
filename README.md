@@ -1,1 +1,2 @@
-# https://github.com/kytsyr/rs_school-cv/blob/gh-pages/cv.md
+RS School CV
+# https://kytsyr.github.io/rsschool-cv/
