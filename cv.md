@@ -13,7 +13,7 @@ Engineer, future frontend developer.
 #### [https://www.codewars.com/users/kytsyr/completed_solutions](codewars)
 #### Employment
 * 2020-2022 PJSC Sberbank, Frontend developer 
-#### RS School Front-end, Courses
+#### RS School - Front-end courses, LLC "Netology" - Python, Data science courses
 #### Languages 
 * Sakha
 * Russian
