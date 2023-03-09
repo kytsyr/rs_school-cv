@@ -11,7 +11,7 @@ Engineer, junior frontend developer.
 * React
 * Python
 #### Code example 
-* This code does not execute properly. Try figure out why. 
+* Task from codewars.com
    function multiply(a, b){
    return a * b;
 }
