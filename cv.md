@@ -12,6 +12,8 @@ Engineer, junior frontend developer.
 * Python
 #### Code example 
 * Task from codewars.com
+
+
    function multiply(a, b){
    return a * b;
 }
