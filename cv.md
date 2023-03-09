@@ -10,7 +10,7 @@ Engineer, future frontend developer.
 * HTML & CSS
 * React
 * Python
-#### [https://www.codewars.com/dashboard](codewars)
+#### [https://www.codewars.com/users/kytsyr/completed_solutions](codewars)
 #### Employment
 * 2020-2022 PJSC Sberbank, Frontend developer 
 #### RS School Front-end, Courses
