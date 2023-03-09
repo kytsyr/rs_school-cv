@@ -1,5 +1,5 @@
 ## Semenov **Mikhail**
-Engineer, future frontend developer. 
+Engineer, junior frontend developer. 
 * [semenov.m.v@mail.ru](mail)  
 * +54 9 11 2644 5995 - whats app
 * Mikhail (@kytsyr) - Discord
@@ -10,11 +10,15 @@ Engineer, future frontend developer.
 * HTML & CSS
 * React
 * Python
-#### [https://www.codewars.com/users/kytsyr/completed_solutions](codewars)
+#### Code example 
+* This code does not execute properly. Try figure out why. 
+   function multiply(a, b){
+   return a * b;
+}
 #### Employment
-* 2020-2022 PJSC Sberbank, Frontend developer 
-#### RS School - Front-end courses, LLC "Netology" - Python, Data science courses
+* 2020-2022 PJSC Sberbank, Junior Frontend developer 
+#### RS School - Front-end courses (in progress), LLC "Netology" - Python, Data science courses (in progress)
 #### Languages 
-* Sakha
-* Russian
-* English IELTS 5.5
+* Sakha - native
+* Russian - fluent 
+* English - intermediate (IELTS 5.5)
